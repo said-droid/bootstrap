@@ -1,0 +1,27 @@
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+}
+
+.btn-cs {
+    border-radius: 50px;
+}
+
+.btn-cs:hover {
+    color: white;
+    background-color: blue;
+}
+
+.sidenav {
+    height: 100%;
+    width: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: lightblue;
+    padding-top: 60px;
+}
+
+
+
+
