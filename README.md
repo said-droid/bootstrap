@@ -1,5 +1,4 @@
 # bootstrap
 
 
-https://said-droid.github.io/bootstrap/index.html
-
+https://said-droid.github.io/bootstrap/
