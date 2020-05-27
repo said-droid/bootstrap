@@ -11,15 +11,13 @@
     border: 1px solid transparent;
 }
 
-.sidenav {
+.wrapper {
     height: 100%;
     width: 100px;
     position: fixed;
     top: 0;
-    left: 0;
     background-color: lightblue;
-    padding-top: 60px;
-    text-align: center;
+    padding-top: 10px;
 }
 
 @media screen and (max-width: 768px) {
